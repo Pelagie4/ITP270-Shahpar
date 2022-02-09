@@ -1,4 +1,4 @@
-Name Tieroubarmana George
+Name: Tieroubarmana George
 
 1. Print the working directory.
 	- pwd
